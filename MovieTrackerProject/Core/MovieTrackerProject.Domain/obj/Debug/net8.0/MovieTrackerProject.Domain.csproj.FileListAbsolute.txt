@@ -1,0 +1,11 @@
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Domain\bin\Debug\net8.0\MovieTrackerProject.Domain.deps.json
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Domain\bin\Debug\net8.0\MovieTrackerProject.Domain.dll
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Domain\bin\Debug\net8.0\MovieTrackerProject.Domain.pdb
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Domain\obj\Debug\net8.0\MovieTrackerProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Domain\obj\Debug\net8.0\MovieTrackerProject.Domain.AssemblyInfoInputs.cache
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Domain\obj\Debug\net8.0\MovieTrackerProject.Domain.AssemblyInfo.cs
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Domain\obj\Debug\net8.0\MovieTrackerProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Domain\obj\Debug\net8.0\MovieTrackerProject.Domain.dll
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Domain\obj\Debug\net8.0\refint\MovieTrackerProject.Domain.dll
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Domain\obj\Debug\net8.0\MovieTrackerProject.Domain.pdb
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Domain\obj\Debug\net8.0\ref\MovieTrackerProject.Domain.dll

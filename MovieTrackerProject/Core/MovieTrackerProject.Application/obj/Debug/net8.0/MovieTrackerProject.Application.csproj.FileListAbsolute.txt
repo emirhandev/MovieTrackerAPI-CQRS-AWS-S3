@@ -1,0 +1,15 @@
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\bin\Debug\net8.0\MovieTrackerProject.Application.deps.json
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\bin\Debug\net8.0\MovieTrackerProject.Application.dll
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\bin\Debug\net8.0\MovieTrackerProject.Application.pdb
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\bin\Debug\net8.0\MovieTrackerProject.Domain.dll
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\bin\Debug\net8.0\MovieTrackerProject.Domain.pdb
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\obj\Debug\net8.0\MovieTrackerProject.Application.csproj.AssemblyReference.cache
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\obj\Debug\net8.0\MovieTrackerProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\obj\Debug\net8.0\MovieTrackerProject.Application.AssemblyInfoInputs.cache
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\obj\Debug\net8.0\MovieTrackerProject.Application.AssemblyInfo.cs
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\obj\Debug\net8.0\MovieTrackerProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\obj\Debug\net8.0\MovieTra.7F5DE3B1.Up2Date
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\obj\Debug\net8.0\MovieTrackerProject.Application.dll
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\obj\Debug\net8.0\refint\MovieTrackerProject.Application.dll
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\obj\Debug\net8.0\MovieTrackerProject.Application.pdb
+C:\Users\emirh\source\repos\MovieTrackerProject\Core\MovieTrackerProject.Application\obj\Debug\net8.0\ref\MovieTrackerProject.Application.dll

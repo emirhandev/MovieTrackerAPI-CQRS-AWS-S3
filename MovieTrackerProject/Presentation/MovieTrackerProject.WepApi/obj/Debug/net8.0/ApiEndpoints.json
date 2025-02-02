@@ -1,0 +1,372 @@
+[
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.FileController",
+    "Method": "DeleteProfilePhotoAsync",
+    "RelativePath": "api/File/Delete-Profile-Photo",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.FileController",
+    "Method": "UploadProfilePhotoAsync",
+    "RelativePath": "api/File/Upload-Profile-Photo",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.MovieController",
+    "Method": "GetMovieById",
+    "RelativePath": "api/Movie/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.MovieController",
+    "Method": "CreateMovie",
+    "RelativePath": "api/Movie/Create-Movie",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieTrackerProject.Application.Features.Movies.Commands.CreateMovie.CreateMovieCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.MovieController",
+    "Method": "DeleteMovie",
+    "RelativePath": "api/Movie/Delete-Movie",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.MovieController",
+    "Method": "MovieList",
+    "RelativePath": "api/Movie/Get-All-Movies",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.MovieController",
+    "Method": "GetMoviesByTitleWithRates",
+    "RelativePath": "api/Movie/Get-Movies-With-Rates/{title}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.MovieController",
+    "Method": "GetMovieByTitle",
+    "RelativePath": "api/Movie/title/{title}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.MovieController",
+    "Method": "UpdateMovie",
+    "RelativePath": "api/Movie/Update-Movie",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieTrackerProject.Application.Features.Movies.Commands.UpdateMovie.UpdateMovieCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.RateController",
+    "Method": "GetRateById",
+    "RelativePath": "api/Rate/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.RateController",
+    "Method": "CreateRate",
+    "RelativePath": "api/Rate/Create-Rate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieTrackerProject.Application.Features.Rates.Commands.CreateRate.CreateRateCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.RateController",
+    "Method": "DeleteRate",
+    "RelativePath": "api/Rate/Delete-Rate",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.RateController",
+    "Method": "RateList",
+    "RelativePath": "api/Rate/Get-AllRates",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.RateController",
+    "Method": "UpdateRate",
+    "RelativePath": "api/Rate/Update-Rate",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieTrackerProject.Application.Features.Rates.Commands.UpdateRate.UpdateRateCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.TMDBController",
+    "Method": "AddMovieTMDB",
+    "RelativePath": "api/TMDB/Add-Movie-to-Watchlist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieTrackerProject.Application.Features.TMDB.Commands.AddMovieToWatchListByIdWithTMDB.AddMovieToWatchListByIdWithTMDBCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MovieTrackerProject.WepApi.Controllers.TMDBController",
+    "Method": "SearchMovies",
+    "RelativePath": "api/TMDB/search/{title}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "title",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserController",
+    "Method": "GetUserById",
+    "RelativePath": "api/User/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserController",
+    "Method": "AddMovie",
+    "RelativePath": "api/User/Add-Movie-To-Watchlist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieTrackerProject.Application.Features.Users.Commands.AddMovie.AddMovieCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserController",
+    "Method": "CreateUser",
+    "RelativePath": "api/User/Create-User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "MovieTrackerProject.Application.Features.Users.Commands.CreateUser.CreateUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserController",
+    "Method": "DeleteUser",
+    "RelativePath": "api/User/Delete-User",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserController",
+    "Method": "UserList",
+    "RelativePath": "api/User/Get-All-User",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserController",
+    "Method": "GetUserByIdWithRates",
+    "RelativePath": "api/User/Get-User-By-Id-WithRates/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserController",
+    "Method": "GetUserWithMovies",
+    "RelativePath": "api/User/Get-Users-With-Watchlist",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "UserController",
+    "Method": "UpdateUser",
+    "RelativePath": "api/User/Update-User",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "command",
+        "Type": "MovieTrackerProject.Application.Features.Users.Commands.UpdateUser.UpdateUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
